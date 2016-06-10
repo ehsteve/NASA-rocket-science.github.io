@@ -1,4 +1,4 @@
-ID,Science,PI,Institution,Name,LaunchSite,Date,Year,Apogee,Vehicle,Impact
+ID,Science,PI,Institution,Name,LaunchSite,Date,Year,Apogee,Vehicle,Impact, phd
 12.062,GT,Krause,NASA/Wallops Flight Facility,,WSMR,1/20/2005,2005,99,NIKE (3 FIN) ORION,76.5
 40.017,UE,Lynch,Dartmouth University,CASCADES,PFRR,3/6/2005,2005,29.5,BLACK BRANT XII,21.9
 30.059,UE,Lynch,Dartmouth University,Dust,PFRR,3/14/2005,2005,99.9,IMPROVED ORION (4 FIN) BOAT TAIL,52.4
@@ -107,7 +107,7 @@ ID,Science,PI,Institution,Name,LaunchSite,Date,Year,Apogee,Vehicle,Impact
 36.263,US,Judge,University of Southern California,,WSMR,7/24/2012,2012,323.8,BLACK BRANT IX MOD 2,77.4
 46.004,GO,Rosanova,NASA/Wallops Flight Facility,RockSatX,WFF,9/21/2012,2012,153.9,Terrier MK 12 Improved MALEMUTE,140.4
 12.075,GT,Brodell,NASA/Wallops Flight Facility,,WFF,9/22/2012,2012,270.2,Talos-Terrier-Oriole,531.2
-36.255,US,Krucker,University of California Berkeley,FOXSI,WSMR,11/2/2012,2012,339,BLACK BRANT IX MOD 2,78.6
+36.255,US,Krucker,University of California Berkeley,FOXSI,WSMR,11/2/2012,2012,339,BLACK BRANT IX MOD 2,78.6, L. Glesener
 36.26,UG,Cook,Boston University,M101 IMAGER,WSMR,11/21/2012,2012,291.3,BLACK BRANT IX MOD 2,73.1
 36.283,UH,Galeazzi,University of Miami,DXL,WSMR,12/13/2012,2012,255.7,BLACK BRANT IX MOD 2,77.2
 41.107,GT,West,NASA/Wallops Flight Facility,,WFF,1/29/2013,2013,144,TERRIER MK 70/IMPROVED ORION W/CLAMP RELEASE,143
